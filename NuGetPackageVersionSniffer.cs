@@ -1,7 +1,7 @@
 ﻿using CodeSniffer.Core.Sniffer;
+using CodeSniffer.SnifferLib.Matchers;
+using CodeSniffer.SnifferLib.VsProjects;
 using Serilog;
-using Sniffer.Lib.Matchers.cs;
-using Sniffer.Lib.VsProjects;
 
 namespace Sniffer.NuGetPackageVersion
 {
